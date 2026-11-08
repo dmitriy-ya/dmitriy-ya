@@ -1,5 +1,10 @@
-## Hi there 👋
+ml \ data science \ analytics & statistics \ mlops
 
+ai systems \ fullstack
+
+you can drop a line: <a href="https://t.me/iamqsorry">
+  <img src="https://cdn.simpleicons.org/telegram/white" width="24" height="24" alt="Telegram" />
+</a>
 <!--
 **dmitriy-ya/dmitriy-ya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
